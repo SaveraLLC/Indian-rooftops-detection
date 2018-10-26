@@ -1,0 +1,2 @@
+model_checkpoint_path: "SAVERA_86_trained_weights.best.hdf5"
+all_model_checkpoint_paths: "SAVERA_86_trained_weights.best.hdf5"
